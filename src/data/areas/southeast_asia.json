@@ -1,0 +1,20 @@
+[
+  { "name": "Brunei", "value": "BRN" },
+  { "name": "Cambodia", "value": "KHM" },
+  { "name": "China", "value": "CHN" },
+  { "name": "Hong Kong", "value": "HKG" },
+  { "name": "Macao", "value": "MAC" },
+  { "name": "Indonesia", "value": "IDN" },
+  { "name": "Japan", "value": "JPN" },
+  { "name": "Laos", "value": "LAO" },
+  { "name": "Malaysia", "value": "MYS" },
+  { "name": "Mongolia", "value": "MNG" },
+  { "name": "Myanmar", "value": "MMR" },
+  { "name": "North Korea", "value": "PRK" },
+  { "name": "Philippines", "value": "PHL" },
+  { "name": "Singapore", "value": "SGP" },
+  { "name": "South Korea", "value": "KOR" },
+  { "name": "Thailand", "value": "THA" },
+  { "name": "Timor-Leste", "value": "TLS" },
+  { "name": "Vietnam", "value": "VNM" }
+]

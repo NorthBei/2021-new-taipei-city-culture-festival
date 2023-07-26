@@ -1,0 +1,26 @@
+[
+  {
+    "name": "華語",
+    "value": "chinese"
+  },
+  {
+    "name": "台語",
+    "value": "taiwanese"
+  },
+  {
+    "name": "客語",
+    "value": "hakka"
+  },
+  {
+    "name": "阿美族語",
+    "value": "amis"
+  },
+  {
+    "name": "緬甸語",
+    "value": "myanmar"
+  },
+  {
+    "name": "其他",
+    "value": "others"
+  }
+]

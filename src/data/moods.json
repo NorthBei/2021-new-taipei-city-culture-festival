@@ -1,0 +1,27 @@
+[
+  {
+    "name": "思念",
+    "value": "miss",
+    "color": "#67c6a4"
+  },
+  {
+    "name": "開心",
+    "value": "happy",
+    "color": "#f9a01e"
+  },
+  {
+    "name": "傷感",
+    "value": "sad",
+    "color": "#b598d8"
+  },
+  {
+    "name": "不平",
+    "value": "grievance",
+    "color": "#d56b64"
+  },
+  {
+    "name": "希望",
+    "value": "hope",
+    "color": "#7fd9e5"
+  }
+]

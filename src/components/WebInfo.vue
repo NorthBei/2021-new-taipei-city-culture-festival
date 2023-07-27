@@ -85,10 +85,11 @@ export default {
     grid-row-gap: 20px;
     justify-content: center;
     margin-bottom: 20px;
+    padding: 0 7px;
 
     .gov1,
     .gov2 {
-      justify-self: start;
+      justify-self: center;
     }
   }
 }

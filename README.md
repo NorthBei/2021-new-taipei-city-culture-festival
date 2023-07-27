@@ -123,6 +123,21 @@ https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/1566570
 |npm| v9.5.1|
 |Vue| Vue2 & Vuex |
 
+### Environment Variables
+
+Rename the `.env.local.example` to `.env.local`, and get the env var from Google Map API / Firebase service
+
+|Service|Env var|
+|-|-|
+|Google Map|VUE_APP_GOOGLE_MAP_API_KEY|
+|Firebase|VUE_APP_FIREBASE_API_KEY|
+|Firebase|VUE_APP_FIREBASE_AUTH_DOMAIN|
+|Firebase|VUE_APP_FIREBASE_PROJECT_ID|
+|Firebase|VUE_APP_FIREBASE_STORAGE_BUCKET|
+|Firebase|VUE_APP_FIREBASE_MESSAGING_SENDER_ID|
+|Firebase|VUE_APP_FIREBASE_APP_ID|
+
+
 ### Getting Started
 
 

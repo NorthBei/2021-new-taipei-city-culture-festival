@@ -224,7 +224,7 @@ CORS Config如下:
 
 ## Reference
 - 如何解決Node 17(含)以上，執行Vue2會出現ERR_OSSL_EVP_UNSUPPORTED:
-  - [how to fix 'ERR_OSSL_EVP_UNSUPPORTED' ERROR in vue?]([https://www.freepik.com/free-vector/gradient-rocket-background_4401989.htm#query=gradient-rocket-background](https://stackoverflow.com/questions/71273466/how-to-fix-err-ossl-evp-unsupported-error-in-vue)https://stackoverflow.com/questions/71273466/how-to-fix-err-ossl-evp-unsupported-error-in-vue)
+  - [how to fix 'ERR_OSSL_EVP_UNSUPPORTED' ERROR in vue?](https://stackoverflow.com/questions/71273466/how-to-fix-err-ossl-evp-unsupported-error-in-vue)
 - 如何更改Google Cloud Storage CORS的設定:
   - [Firebase Storage 如何跨網域設定Access-Control-Allow-Origin (CORS)](https://medium.com/@a29243004/firebase-storage-%E5%A6%82%E4%BD%95%E8%B7%A8%E7%B6%B2%E5%9F%9F%E8%A8%AD%E5%AE%9Aaccess-control-allow-origin-cors-7dc44b46a728)
   - [Configuring cross-origin resource sharing (CORS)](https://cloud.google.com/storage/docs/configuring-cors#json-api) (recommended)

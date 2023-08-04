@@ -1,5 +1,5 @@
 # 2021找找不能忘記的母語歌 - 新北多元文化節
-<img width="1907" alt="image" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/3a7bca88-da70-4f89-91bc-61854bd037fe">
+<img width="1907" alt="256450980-3a7bca88-da70-4f89-91bc-61854bd037fe" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/4aa99fff-db8f-4764-8627-a6a301ddd15f">
 
 ## Project Intro
 
@@ -82,18 +82,21 @@
 
 Demo:
 
-https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/d64516d3-01be-47d0-9304-82ff7b568ebe
+https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/bc4e2651-257f-418c-bbc9-20b7c58db6cd
+
 
 母語歌地圖:
-<img width="1906" alt="截圖 2023-07-27 下午9 52 17" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/de11f083-8ff6-482b-8b0a-6b8d3e5ba682">
-<img width="1905" alt="截圖 2023-07-27 下午9 55 13" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/6dee6e50-8d25-465f-a03c-644f27dab7d8">
-<img width="1905" alt="image" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/cce120df-a2c6-4638-a9dc-3f9b53001034">
-<img width="1904" alt="截圖 2023-07-27 下午9 58 27" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/6b944586-56a0-426c-9064-ff40aea0f6ad">
-<img width="1905" alt="截圖 2023-07-27 下午9 58 39" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/0cf293f4-32fc-43e6-be76-bacf6f49e3eb">
+<img width="1906" alt="256569750-de11f083-8ff6-482b-8b0a-6b8d3e5ba682" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/05db993f-c7d4-43d1-923a-e514ef558a1e">
+<img width="1905" alt="256570615-6dee6e50-8d25-465f-a03c-644f27dab7d8" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/44807aed-56b3-4fad-b155-9ef64c72a819">
+<img width="1905" alt="256571901-cce120df-a2c6-4638-a9dc-3f9b53001034" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/6bf72426-39ba-4496-8c18-4294eb18c722">
+<img width="1904" alt="256570722-6b944586-56a0-426c-9064-ff40aea0f6ad" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/d0ca859e-a758-4a10-9ab5-5aaac829bc29">
+<img width="1905" alt="256570756-0cf293f4-32fc-43e6-be76-bacf6f49e3eb" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/6ed23fc6-f84f-4aa1-89fa-fd5435852d8e">
+
+
 母語歌上傳管理後台：
-<img width="1905" alt="image" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/361f3383-cf45-4fcc-a5ef-a5e3e0907949">
-<img width="1920" alt="image" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/fded7e0d-6b1a-415e-9a87-1e37ff16fd26">
-<img width="1904" alt="image" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/cabd0b6e-afea-4b24-a6b4-99bad9a65af8">
+<img width="1905" alt="256580687-361f3383-cf45-4fcc-a5ef-a5e3e0907949" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/db33d0e9-d3ad-46f4-8a94-6636879576e2">
+<img width="1920" alt="256580795-fded7e0d-6b1a-415e-9a87-1e37ff16fd26" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/d56aa3d7-43be-446a-b709-c9b23a2e05f6">
+<img width="1904" alt="256587168-cabd0b6e-afea-4b24-a6b4-99bad9a65af8" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/3d0f8403-acc1-4b86-a403-8b533fc743ad">
 
 
 **Moblie (English)**
@@ -101,16 +104,16 @@ https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/1566570
 母語歌地圖:
 |Here is |some|screenshots|
 |-|-|-|
-|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/78c56570-41a3-489c-9a2c-25324f1de81b)|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (1)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/6f7a7a93-5e2e-49e7-89da-bc58fd7984eb)|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (6)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/1e594bd5-49d1-4bb8-9c36-c73ce057c34e)|
-|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (5)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/f5d27551-ec6d-4f3b-8afe-d3b0f64d6513)|![localhost_8080_(iPhone XR) (2)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/ab3c0d6f-29d9-451c-b7a8-b46787b2c13d)|
-|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (2)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/dd3eaea7-c8be-4c69-8200-e5c8afe0a18f)|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (3)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/a7010259-d63e-452a-bc3f-0ea831c97a70)||
+|![256583307-78c56570-41a3-489c-9a2c-25324f1de81b](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/229d78ac-6ddb-461f-bd31-27eaf71807f3)|![256583353-6f7a7a93-5e2e-49e7-89da-bc58fd7984eb](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/a6d0ee26-3803-4a8c-b851-96262dc5314f)|![256583445-1e594bd5-49d1-4bb8-9c36-c73ce057c34e](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/e3713938-7e9a-4b07-9a97-d77af8030922)|
+|![256583423-f5d27551-ec6d-4f3b-8afe-d3b0f64d6513](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/0fca82d9-a546-463d-9b80-1d4b2636b2a5)|![256584830-ab3c0d6f-29d9-451c-b7a8-b46787b2c13d](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/8a7a0ec8-79f1-46c4-b8a3-7e0e8559d0c6)||
+|![256583489-dd3eaea7-c8be-4c69-8200-e5c8afe0a18f](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/3d8a8838-ebbc-4f50-adf2-5c894db00707)|![256583508-a7010259-d63e-452a-bc3f-0ea831c97a70](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/182c434c-9ce3-4016-a333-24ad9ca71f06)||
+
 
 
 母語歌上傳管理後台：
 |Here is |some|screenshots|
 |-|-|-|
-|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (9)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/31bdb4b4-d3e3-45b1-9367-0719468fba9e)|![2021-new-taipei-city-culture-festival netlify app_(iPhone XR) (10)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/0eaa4e69-4a60-47ab-970a-85f84b4a9634)|![localhost_8080_(iPhone XR) (1)](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/55f1ea5d-5bf9-4ab0-9e54-e71f9ac59420)|
-
+|![256583619-31bdb4b4-d3e3-45b1-9367-0719468fba9e](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/61541729-d91d-4d21-b8a3-4e846b8618e8)|![256583639-0eaa4e69-4a60-47ab-970a-85f84b4a9634](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/25231222-5a17-46fe-9cec-1c5392ba5435)|![256583943-55f1ea5d-5bf9-4ab0-9e54-e71f9ac59420](https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/0cb1e752-026f-41d4-90e5-999437efac57)|
 
 
 ## Development Instruction

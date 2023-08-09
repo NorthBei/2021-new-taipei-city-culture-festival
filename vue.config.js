@@ -25,6 +25,8 @@ module.exports = {
         ]
         return args
       })
+    config.plugins.delete('pwa')
+    config.plugins.delete('workbox')
   },
   pwa: {
     name: title,

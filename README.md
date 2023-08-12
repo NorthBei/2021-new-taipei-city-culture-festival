@@ -99,7 +99,7 @@ https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/1566570
 <img width="1904" alt="256587168-cabd0b6e-afea-4b24-a6b4-99bad9a65af8" src="https://github.com/NorthBei/2021-new-taipei-city-culture-festival/assets/15665709/3d0f8403-acc1-4b86-a403-8b533fc743ad">
 
 
-**Moblie (English)**
+**Mobile (English)**
 
 母語歌地圖:
 |Here is |some|screenshots|
@@ -139,6 +139,10 @@ Rename the `.env.local.example` to `.env.local`, and get the env var from Google
 |Firebase|VUE_APP_FIREBASE_STORAGE_BUCKET|
 |Firebase|VUE_APP_FIREBASE_MESSAGING_SENDER_ID|
 |Firebase|VUE_APP_FIREBASE_APP_ID|
+|Google Tag Manager/ID|VUE_APP_GTM_ID|
+|Google Tag Manager/Env|VUE_APP_GTM_AUTH|
+|Google Tag Manager/Env|VUE_APP_GTM_PREVIEW|
+|Google Tag Manager/Env|VUE_APP_GTM_COOKIES_WIX|
 
 
 ### Getting Started

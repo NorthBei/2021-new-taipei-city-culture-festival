@@ -74,6 +74,7 @@
 ### Relative Link
 - [2021新北市多元文化節活動網站](https://seekingfor520.wixsite.com/culture-festival)
 - [2021找找不能忘記的母語歌 - 新北多元文化節](https://2021-new-taipei-city-culture-festival.netlify.app/)
+- [ETtoday - 新住民多元文化節4月起跑　找找，住在新北的世界聲音](https://www.ettoday.net/news/20210404/1953335.htm)
 
 
 ### Screenshots/Film
